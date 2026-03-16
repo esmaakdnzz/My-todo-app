@@ -22,20 +22,21 @@ Bu proje, React ve Tailwind CSS kullanılarak geliştirilmiş, modern arayüzlü
 Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
 1.  **Depoyu Klonlayın:**
+    ```bash
     git clone https://github.com/esmaakdnzz/My-todo-app.git
     ```
 
-2.  **Proje Dizinine Gidin:**
+3.  **Proje Dizinine Gidin:**
     ```bash
     cd my-todo-app
     ```
 
-3.  **Gerekli Paketleri Yükleyin:**
+4.  **Gerekli Paketleri Yükleyin:**
     ```bash
     npm install
     ```
 
-4.  **Projeyi Başlatın:**
+5.  **Projeyi Başlatın:**
     ```bash
     npm run dev
     ```
