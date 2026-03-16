@@ -22,8 +22,7 @@ Bu proje, React ve Tailwind CSS kullanılarak geliştirilmiş, modern arayüzlü
 Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
 1.  **Depoyu Klonlayın:**
-    ```bash
-    git clone [https://github.com/kullanici-adin/repo-adin.git](https://github.com/kullanici-adin/repo-adin.git)
+    git clone https://github.com/esmaakdnzz/My-todo-app.git
     ```
 
 2.  **Proje Dizinine Gidin:**
