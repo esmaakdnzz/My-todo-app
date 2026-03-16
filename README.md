@@ -28,7 +28,7 @@ Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 
 2.  **Proje Dizinine Gidin:**
     ```bash
-    cd repo-adin
+    cd my-todo-app
     ```
 
 3.  **Gerekli Paketleri Yükleyin:**
